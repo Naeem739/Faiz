@@ -1,0 +1,16 @@
+/* CSS styles for the table */
+.my-table {
+    font-size: 24px;
+    border-collapse: collapse;
+}
+
+/* CSS styles for the "About Me" section */
+.about-me {
+    vertical-align: top;
+    padding-right: 20px;
+}
+
+/* Center aligning content within the table cells */
+td {
+    text-align: center;
+}
